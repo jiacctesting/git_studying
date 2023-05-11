@@ -1,0 +1,508 @@
+2023-05-08 12:55:22,650 myunit.py[line:13] INFO ======tear down=======
+2023-05-08 12:56:53,180 myunit.py[line:13] INFO ======tear down=======
+2023-05-08 13:01:18,424 myunit.py[line:13] INFO ======tear down=======
+2023-05-08 13:01:52,607 testcase_login.py[line:16] INFO ======tear down=======
+2023-05-08 13:02:52,491 testcase_login.py[line:16] INFO ======tear down=======
+2023-05-08 13:03:15,624 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 13:03:36,473 testcase_login.py[line:16] INFO ======tear down=======
+2023-05-08 14:53:55,979 myunit.py[line:13] INFO ======tear down=======
+2023-05-08 14:56:01,220 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 14:57:05,473 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 14:59:00,725 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 15:00:58,090 myunit.py[line:11] INFO ======start up=======
+2023-05-08 15:00:58,091 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 15:01:19,308 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 15:01:21,276 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 15:01:26,989 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 15:01:36,053 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 15:13:50,280 myunit.py[line:11] INFO ======start up=======
+2023-05-08 15:13:50,282 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 15:14:09,316 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 15:14:52,464 myunit.py[line:11] INFO ======start up=======
+2023-05-08 15:14:52,465 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 15:30:05,516 myunit.py[line:11] INFO ======start up=======
+2023-05-08 15:30:05,517 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 15:30:25,385 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 15:37:46,017 myunit.py[line:11] INFO ======start up=======
+2023-05-08 15:37:46,019 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 15:38:05,225 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:38:05,228 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:38:05,229 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 15:38:07,012 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 15:38:13,126 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 15:38:21,042 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 15:40:42,600 myunit.py[line:11] INFO ======start up=======
+2023-05-08 15:40:42,602 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 15:41:01,622 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:41:01,623 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:41:01,624 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 15:41:03,547 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 15:41:09,975 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 15:41:19,709 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 15:41:23,602 myunit.py[line:11] INFO ======start up=======
+2023-05-08 15:41:23,604 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 15:41:46,126 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:41:46,127 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:41:46,127 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 15:41:48,430 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 15:41:55,067 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 15:42:10,971 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 15:43:48,658 myunit.py[line:11] INFO ======start up=======
+2023-05-08 15:43:48,660 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 15:44:09,486 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:44:09,488 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:44:09,488 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 15:44:11,277 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 15:44:16,905 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 15:44:32,289 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 15:44:39,769 myunit.py[line:11] INFO ======start up=======
+2023-05-08 15:44:39,799 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 15:45:00,802 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:45:00,804 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:45:00,804 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 15:45:03,032 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 15:45:08,407 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 15:45:16,826 login.py[line:35] INFO ====check login status======
+2023-05-08 15:45:26,950 login.py[line:41] ERROR login failed
+2023-05-08 15:45:26,951 common_fun.py[line:85] INFO ==========get login failed screenshots==============
+2023-05-08 15:45:27,254 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 15:45:56,828 myunit.py[line:11] INFO ======start up=======
+2023-05-08 15:45:56,830 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 15:46:16,178 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:46:16,179 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:46:16,180 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 15:46:17,867 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 15:46:24,216 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 15:46:31,180 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 15:46:34,545 myunit.py[line:11] INFO ======start up=======
+2023-05-08 15:46:34,548 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 15:46:53,254 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:46:53,254 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:46:53,255 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 15:46:54,828 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 15:47:00,797 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 15:47:08,757 login.py[line:35] INFO ====check login status======
+2023-05-08 15:47:18,932 login.py[line:41] ERROR login failed
+2023-05-08 15:47:18,932 common_fun.py[line:85] INFO ==========get login failed screenshots==============
+2023-05-08 15:47:19,291 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 15:48:02,536 myunit.py[line:11] INFO ======start up=======
+2023-05-08 15:48:02,538 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 15:48:21,949 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:48:21,951 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:48:21,951 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 15:48:23,290 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 15:48:26,637 myunit.py[line:11] INFO ======start up=======
+2023-05-08 15:48:26,639 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 15:48:45,316 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:48:45,317 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:48:45,317 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 15:48:47,538 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 15:48:52,236 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 15:49:00,973 login.py[line:35] INFO ====check login status======
+2023-05-08 15:49:11,316 login.py[line:41] ERROR login failed
+2023-05-08 15:49:11,316 common_fun.py[line:85] INFO ==========get login failed screenshots==============
+2023-05-08 15:49:11,713 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 15:49:48,876 myunit.py[line:11] INFO ======start up=======
+2023-05-08 15:49:48,878 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 15:50:12,449 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:50:12,450 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:50:12,451 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 15:50:14,119 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 15:50:24,110 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 15:50:53,225 myunit.py[line:11] INFO ======start up=======
+2023-05-08 15:50:53,227 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 15:51:13,302 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:51:13,303 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:51:13,304 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 15:51:14,867 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 15:51:21,532 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 15:51:36,308 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 15:51:51,332 myunit.py[line:11] INFO ======start up=======
+2023-05-08 15:51:51,334 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 15:52:16,202 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:52:16,204 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:52:16,204 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 15:52:17,828 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 15:52:22,897 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 15:52:38,527 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 15:53:31,773 myunit.py[line:11] INFO ======start up=======
+2023-05-08 15:53:31,776 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 15:53:50,965 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:53:50,966 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 15:53:52,968 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 15:53:53,855 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 15:53:59,118 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 15:54:07,147 login.py[line:35] INFO ====check login status======
+2023-05-08 15:54:25,563 login.py[line:41] ERROR login failed
+2023-05-08 15:54:25,563 common_fun.py[line:85] INFO ==========get login failed screenshots==============
+2023-05-08 15:54:25,945 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 16:33:25,528 myunit.py[line:11] INFO ======start up=======
+2023-05-08 16:33:25,530 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 16:33:46,420 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 16:33:46,422 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 16:33:48,424 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 16:33:49,307 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 16:33:54,514 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 16:34:02,446 login.py[line:36] INFO ====check login status======
+2023-05-08 16:34:20,449 login.py[line:42] ERROR login failed
+2023-05-08 16:34:20,449 common_fun.py[line:85] INFO ==========get login failed screenshots==============
+2023-05-08 16:34:20,849 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 16:34:24,486 myunit.py[line:11] INFO ======start up=======
+2023-05-08 16:34:24,487 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 16:34:47,011 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 16:34:47,011 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 16:34:49,013 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 16:34:49,940 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 16:34:54,793 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 16:35:02,935 login.py[line:36] INFO ====check login status======
+2023-05-08 16:35:14,262 login.py[line:42] ERROR login failed
+2023-05-08 16:35:14,262 common_fun.py[line:85] INFO ==========get login failed screenshots==============
+2023-05-08 16:35:14,526 login.py[line:36] INFO ====check login status======
+2023-05-08 16:35:25,099 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 16:37:48,722 myunit.py[line:11] INFO ======start up=======
+2023-05-08 16:37:48,724 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 16:38:18,283 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 16:38:18,285 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 16:38:20,286 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 16:38:20,568 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 16:38:28,311 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 16:38:36,399 login.py[line:36] INFO ====check login status======
+2023-05-08 16:38:54,780 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 16:38:58,616 myunit.py[line:11] INFO ======start up=======
+2023-05-08 16:38:58,618 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 16:39:19,012 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 16:39:19,013 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 16:39:21,014 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 16:39:21,907 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 16:39:28,637 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 16:39:38,155 login.py[line:36] INFO ====check login status======
+2023-05-08 16:39:49,129 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 16:46:02,593 myunit.py[line:11] INFO ======start up=======
+2023-05-08 16:46:02,595 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 16:46:21,685 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 16:46:21,687 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 16:46:23,688 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 16:46:24,896 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 16:46:30,015 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 16:46:38,972 login.py[line:45] INFO ====check login status======
+2023-05-08 16:46:59,249 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 16:47:02,998 myunit.py[line:11] INFO ======start up=======
+2023-05-08 16:47:03,000 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 16:55:29,708 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 16:55:51,146 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 16:55:53,255 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 16:55:58,784 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 16:56:38,089 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 16:56:58,710 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 16:57:00,377 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 16:57:06,287 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 16:58:24,723 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 16:58:44,171 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 16:58:45,861 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 16:58:51,576 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 16:59:00,524 login.py[line:52] INFO ====check login status======
+2023-05-08 17:02:41,942 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 17:03:06,636 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 17:03:08,854 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 17:03:13,606 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 17:03:22,842 login.py[line:52] INFO ====check login status======
+2023-05-08 17:05:05,729 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 17:05:31,411 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 17:05:32,889 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 17:05:38,711 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 17:05:47,986 login.py[line:52] INFO ====check login status======
+2023-05-08 17:11:07,120 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 17:11:33,231 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 17:11:35,048 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 17:11:41,709 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 17:11:59,417 login.py[line:52] INFO ====check login status======
+2023-05-08 17:18:56,500 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 17:19:26,105 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 17:19:28,153 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 17:19:34,491 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 17:19:44,007 login.py[line:55] INFO ====check login status======
+2023-05-08 17:19:52,128 login.py[line:66] INFO login success
+2023-05-08 17:19:52,128 common_fun.py[line:85] INFO ==========get login success screenshots==============
+2023-05-08 17:20:18,979 myunit.py[line:11] INFO ======start up=======
+2023-05-08 17:20:18,981 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 17:20:40,376 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 17:20:40,378 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 17:20:40,378 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 17:20:42,201 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 17:20:47,396 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 17:20:53,458 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 17:21:14,947 myunit.py[line:11] INFO ======start up=======
+2023-05-08 17:21:14,949 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 17:21:34,713 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 17:21:34,715 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 17:21:34,716 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 17:21:37,316 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 17:21:43,964 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 17:21:52,574 login.py[line:55] INFO ====check login status======
+2023-05-08 17:21:56,940 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 17:22:00,313 myunit.py[line:11] INFO ======start up=======
+2023-05-08 17:22:00,315 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 17:44:38,392 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 17:54:35,649 myunit.py[line:11] INFO ======start up=======
+2023-05-08 17:54:35,651 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 17:54:55,526 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 17:54:55,528 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 17:54:55,528 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 17:54:57,405 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 17:55:02,944 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 17:55:13,026 login.py[line:55] INFO ====check login status======
+2023-05-08 17:55:21,417 login.py[line:66] INFO login success
+2023-05-08 17:55:21,417 common_fun.py[line:85] INFO ==========get login success screenshots==============
+2023-05-08 17:55:22,099 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 17:55:26,328 myunit.py[line:11] INFO ======start up=======
+2023-05-08 17:55:26,330 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 17:55:48,759 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 17:55:48,759 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 17:55:48,760 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 17:55:50,414 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 17:55:55,604 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 17:56:06,123 login.py[line:55] INFO ====check login status======
+2023-05-08 17:56:26,603 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 17:58:13,996 myunit.py[line:11] INFO ======start up=======
+2023-05-08 17:58:13,998 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 17:58:33,061 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 17:58:33,063 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 17:58:33,063 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 17:58:34,949 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 17:58:42,138 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 17:58:57,242 login.py[line:55] INFO ====check login status======
+2023-05-08 17:59:04,473 login.py[line:66] INFO login success
+2023-05-08 17:59:04,473 common_fun.py[line:85] INFO ==========get login success screenshots==============
+2023-05-08 17:59:05,115 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 17:59:08,539 myunit.py[line:11] INFO ======start up=======
+2023-05-08 17:59:08,540 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 17:59:29,040 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 17:59:29,040 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 17:59:29,041 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 17:59:30,821 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 17:59:35,825 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 17:59:45,152 login.py[line:55] INFO ====check login status======
+2023-05-08 18:00:06,623 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 18:13:07,566 myunit.py[line:11] INFO ======start up=======
+2023-05-08 18:13:07,568 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 18:13:26,380 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 18:13:26,382 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 18:13:26,383 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 18:13:28,038 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 18:13:34,328 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 18:13:43,437 login.py[line:55] INFO ====check login status======
+2023-05-08 18:14:05,014 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 18:16:12,641 myunit.py[line:11] INFO ======start up=======
+2023-05-08 18:16:12,643 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 18:16:32,704 testcase_login.py[line:12] INFO test_wrong_acc
+2023-05-08 18:16:32,704 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 18:16:32,705 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 18:16:32,706 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 18:16:34,464 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 18:16:39,684 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 18:16:49,776 login.py[line:55] INFO ====check login status======
+2023-05-08 18:17:11,094 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 18:18:42,103 myunit.py[line:11] INFO ======start up=======
+2023-05-08 18:18:42,108 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 18:19:01,108 testcase_login.py[line:20] INFO test_correct_acc
+2023-05-08 18:19:01,108 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 18:19:01,110 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 18:19:01,110 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 18:19:02,815 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 18:19:07,574 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 18:19:17,064 login.py[line:55] INFO ====check login status======
+2023-05-08 18:19:24,156 login.py[line:66] INFO login success
+2023-05-08 18:19:24,157 common_fun.py[line:85] INFO ==========get login success screenshots==============
+2023-05-08 18:19:24,634 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 18:32:24,374 myunit.py[line:11] INFO ======start up=======
+2023-05-08 18:32:24,378 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 18:32:47,326 testcase_login.py[line:14] INFO test_wrong_acc
+2023-05-08 18:32:47,326 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 18:32:47,332 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 18:32:47,333 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 18:32:49,635 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 18:32:57,877 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 18:33:07,838 login.py[line:55] INFO ====check login status======
+2023-05-08 18:33:29,698 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 19:23:00,643 run.py[line:14] INFO start run test case
+2023-05-08 19:23:00,644 myunit.py[line:11] INFO ======start up=======
+2023-05-08 19:23:00,645 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 19:23:20,030 testcase_login.py[line:14] INFO test_wrong_acc
+2023-05-08 19:23:20,030 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 19:23:20,032 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 19:23:20,033 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 19:23:21,898 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 19:23:26,391 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 19:23:35,412 login.py[line:55] INFO ====check login status======
+2023-05-08 19:23:56,632 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 20:01:30,114 run.py[line:14] INFO start run test case
+2023-05-08 20:01:30,115 myunit.py[line:11] INFO ======start up=======
+2023-05-08 20:01:30,117 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 20:04:19,911 run.py[line:14] INFO start run test case
+2023-05-08 20:04:19,911 myunit.py[line:11] INFO ======start up=======
+2023-05-08 20:04:19,912 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 20:04:29,965 run.py[line:14] INFO start run test case
+2023-05-08 20:04:29,965 myunit.py[line:11] INFO ======start up=======
+2023-05-08 20:04:29,966 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 20:05:02,795 run.py[line:14] INFO start run test case
+2023-05-08 20:05:02,795 myunit.py[line:11] INFO ======start up=======
+2023-05-08 20:05:02,796 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 20:05:29,184 run.py[line:14] INFO start run test case
+2023-05-08 20:05:29,184 myunit.py[line:11] INFO ======start up=======
+2023-05-08 20:05:29,185 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 20:07:01,062 run.py[line:14] INFO start run test case
+2023-05-08 20:07:01,062 myunit.py[line:11] INFO ======start up=======
+2023-05-08 20:07:01,063 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 20:07:21,993 testcase_login.py[line:14] INFO test_wrong_acc
+2023-05-08 20:07:21,993 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 20:07:21,998 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 20:07:21,998 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 20:07:23,867 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 20:07:51,969 run.py[line:14] INFO start run test case
+2023-05-08 20:07:51,970 myunit.py[line:11] INFO ======start up=======
+2023-05-08 20:07:51,971 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 20:36:12,592 run.py[line:14] INFO start run test case
+2023-05-08 20:36:12,592 myunit.py[line:11] INFO ======start up=======
+2023-05-08 20:36:12,594 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 20:36:52,970 run.py[line:14] INFO start run test case
+2023-05-08 20:36:52,971 myunit.py[line:11] INFO ======start up=======
+2023-05-08 20:36:52,972 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 20:37:12,582 testcase_login.py[line:14] INFO test_wrong_acc
+2023-05-08 20:37:12,582 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 20:37:12,584 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 20:37:12,585 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 20:37:14,639 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 20:37:19,432 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 20:37:28,801 login.py[line:55] INFO ====check login status======
+2023-05-08 20:37:50,122 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 20:59:57,088 run.py[line:18] INFO start run test case
+2023-05-08 20:59:57,088 myunit.py[line:11] INFO ======start up=======
+2023-05-08 20:59:57,090 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 21:00:17,855 testcase_login.py[line:14] INFO test_wrong_acc
+2023-05-08 21:00:17,855 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 21:00:17,858 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 21:00:17,858 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 21:00:19,863 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 21:00:26,009 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 21:00:35,274 login.py[line:55] INFO ====check login status======
+2023-05-08 21:00:56,709 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 21:01:26,131 run.py[line:18] INFO start run test case
+2023-05-08 21:01:26,131 myunit.py[line:11] INFO ======start up=======
+2023-05-08 21:01:26,133 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-08 21:01:45,635 testcase_login.py[line:14] INFO test_wrong_acc
+2023-05-08 21:01:45,636 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 21:01:45,638 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-08 21:01:45,640 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-08 21:01:47,535 common_fun.py[line:29] INFO ========select identity========
+2023-05-08 21:01:53,218 common_fun.py[line:35] INFO =======select login style=======
+2023-05-08 21:02:00,564 myunit.py[line:15] INFO ======tear down=======
+2023-05-08 21:06:04,806 run.py[line:18] INFO start run test case
+2023-05-08 21:06:20,327 run.py[line:18] INFO start run test case
+2023-05-08 21:11:54,522 run.py[line:18] INFO start run test case
+2023-05-08 21:12:30,232 run.py[line:18] INFO start run test case
+2023-05-08 21:13:02,549 run.py[line:18] INFO start run test case
+2023-05-09 08:58:18,289 run.py[line:18] INFO start run test case
+2023-05-09 08:59:11,996 run.py[line:18] INFO start run test case
+2023-05-09 09:00:29,092 run.py[line:18] INFO start run test case
+2023-05-09 09:00:29,093 myunit.py[line:11] INFO ======start up=======
+2023-05-09 09:00:29,102 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-09 09:00:52,488 testcase_login.py[line:14] INFO test_wrong_acc
+2023-05-09 09:00:52,489 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-09 09:00:52,494 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-09 09:00:52,497 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-09 09:00:54,553 common_fun.py[line:29] INFO ========select identity========
+2023-05-09 09:01:05,233 common_fun.py[line:35] INFO =======select login style=======
+2023-05-09 09:01:20,359 login.py[line:55] INFO ====check login status======
+2023-05-09 09:01:42,086 myunit.py[line:15] INFO ======tear down=======
+2023-05-09 22:42:33,508 run.py[line:18] INFO start run test case
+2023-05-09 22:42:33,510 myunit.py[line:11] INFO ======start up=======
+2023-05-09 22:42:33,512 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-09 22:43:03,969 testcase_login.py[line:14] INFO test_wrong_acc
+2023-05-09 22:43:03,970 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-09 22:43:03,973 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-09 22:43:03,973 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-09 22:43:06,044 common_fun.py[line:29] INFO ========select identity========
+2023-05-09 22:43:12,823 common_fun.py[line:35] INFO =======select login style=======
+2023-05-09 22:43:27,796 login.py[line:55] INFO ====check login status======
+2023-05-09 22:43:49,015 myunit.py[line:15] INFO ======tear down=======
+2023-05-09 22:44:10,784 run.py[line:18] INFO start run test case
+2023-05-09 22:44:10,785 myunit.py[line:11] INFO ======start up=======
+2023-05-09 22:44:10,786 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-09 22:46:37,486 run.py[line:18] INFO start run test case
+2023-05-09 22:46:37,487 myunit.py[line:11] INFO ======start up=======
+2023-05-09 22:46:37,489 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-10 09:29:28,362 run.py[line:18] INFO start run test case
+2023-05-10 09:29:28,362 myunit.py[line:11] INFO ======start up=======
+2023-05-10 09:29:28,363 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-10 09:29:47,956 testcase_login.py[line:14] INFO test_wrong_acc
+2023-05-10 09:29:47,956 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-10 09:29:47,958 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-10 09:29:47,959 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-10 09:29:50,433 common_fun.py[line:29] INFO ========select identity========
+2023-05-10 09:29:54,969 common_fun.py[line:35] INFO =======select login style=======
+2023-05-10 09:30:03,970 login.py[line:55] INFO ====check login status======
+2023-05-10 09:30:25,186 myunit.py[line:15] INFO ======tear down=======
+2023-05-10 11:19:30,995 run.py[line:18] INFO start run test case
+2023-05-10 11:19:30,996 myunit.py[line:11] INFO ======start up=======
+2023-05-10 11:19:30,998 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-10 11:19:42,108 run.py[line:18] INFO start run test case
+2023-05-10 11:19:42,108 myunit.py[line:11] INFO ======start up=======
+2023-05-10 11:19:42,110 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-10 12:44:07,647 myunit.py[line:11] INFO ======start up=======
+2023-05-10 12:44:07,648 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-10 12:44:27,612 testcase_login.py[line:14] INFO test_wrong_acc
+2023-05-10 12:44:27,613 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-10 12:44:27,615 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-10 12:44:27,615 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-10 12:44:29,339 common_fun.py[line:29] INFO ========select identity========
+2023-05-10 12:44:35,585 common_fun.py[line:35] INFO =======select login style=======
+2023-05-10 12:44:45,673 login.py[line:55] INFO ====check login status======
+2023-05-10 12:45:07,008 myunit.py[line:15] INFO ======tear down=======
+2023-05-10 21:55:47,469 run.py[line:26] INFO start run test case
+2023-05-10 21:55:47,469 myunit.py[line:11] INFO ======start up=======
+2023-05-10 21:55:47,471 desired_caps.py[line:25] INFO =========打开APP==========
+2023-05-10 22:00:07,108 run.py[line:26] INFO start run test case
+2023-05-10 22:00:07,109 myunit.py[line:11] INFO ======start up=======
+2023-05-10 22:00:07,110 desired_caps.py[line:25] INFO =========打开APP==========
+2023-05-10 22:00:32,090 testcase_login.py[line:14] INFO test_wrong_acc
+2023-05-10 22:00:32,090 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-10 22:00:32,093 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-10 22:00:32,093 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-10 22:00:34,057 common_fun.py[line:29] INFO ========select identity========
+2023-05-10 22:00:41,874 common_fun.py[line:35] INFO =======select login style=======
+2023-05-10 22:00:51,048 login.py[line:55] INFO ====check login status======
+2023-05-10 22:01:13,000 myunit.py[line:15] INFO ======tear down=======
+2023-05-10 22:08:07,607 run.py[line:26] INFO start run test case
+2023-05-10 22:08:07,608 myunit.py[line:11] INFO ======start up=======
+2023-05-10 22:08:07,609 desired_caps.py[line:25] INFO =========打开APP==========
+2023-05-10 22:08:27,649 testcase_login.py[line:14] INFO test_wrong_acc
+2023-05-10 22:08:27,649 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-10 22:08:27,650 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-10 22:08:27,651 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-10 22:08:29,473 common_fun.py[line:29] INFO ========select identity========
+2023-05-10 22:08:34,718 common_fun.py[line:35] INFO =======select login style=======
+2023-05-10 22:08:44,339 login.py[line:55] INFO ====check login status======
+2023-05-11 01:09:10,522 myunit.py[line:15] INFO ======tear down=======
+2023-05-11 08:36:41,070 run.py[line:26] INFO start run test case
+2023-05-11 08:36:41,070 myunit.py[line:11] INFO ======start up=======
+2023-05-11 08:36:41,071 desired_caps.py[line:25] INFO =========打开APP==========
+2023-05-11 08:37:00,944 testcase_login.py[line:23] INFO test_correct_acc
+2023-05-11 08:37:00,944 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-11 08:37:00,945 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-11 08:37:00,946 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-11 08:37:02,721 common_fun.py[line:29] INFO ========select identity========
+2023-05-11 08:37:08,404 common_fun.py[line:35] INFO =======select login style=======
+2023-05-11 08:37:20,330 login.py[line:55] INFO ====check login status======
+2023-05-11 08:37:34,183 login.py[line:66] INFO login success
+2023-05-11 08:37:34,183 common_fun.py[line:85] INFO ==========get login success screenshots==============
+2023-05-11 08:37:35,109 myunit.py[line:15] INFO ======tear down=======
+2023-05-11 08:37:38,581 myunit.py[line:11] INFO ======start up=======
+2023-05-11 08:37:38,582 desired_caps.py[line:25] INFO =========打开APP==========
+2023-05-11 08:38:03,004 testcase_login.py[line:14] INFO test_wrong_acc
+2023-05-11 08:38:03,004 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-11 08:38:03,004 common_fun.py[line:89] INFO ===========get csv data=========
+2023-05-11 08:38:03,005 common_fun.py[line:23] INFO ======click agree button=======
+2023-05-11 08:38:04,634 common_fun.py[line:29] INFO ========select identity========
+2023-05-11 08:38:11,190 common_fun.py[line:35] INFO =======select login style=======
+2023-05-11 08:38:26,036 login.py[line:55] INFO ====check login status======
+2023-05-11 08:38:38,955 myunit.py[line:15] INFO ======tear down=======

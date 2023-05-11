@@ -1,0 +1,27 @@
+2023-05-06 19:25:40,370 desired_caps.py[line:22] INFO =========打开APP==========
+2023-05-06 19:33:00,784 desired_caps.py[line:22] INFO =========打开APP==========
+2023-05-06 19:35:34,262 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-06 19:35:37,924 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-06 19:36:14,176 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-06 19:52:35,921 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-06 19:59:54,898 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-06 20:01:20,574 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-06 20:05:28,087 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-06 20:06:02,986 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-06 20:09:17,983 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-06 20:10:00,459 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-06 20:12:08,413 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-06 20:12:28,367 baseView.py[line:37] INFO ==========上滑===========
+2023-05-06 20:12:32,457 baseView.py[line:61] INFO ==========右滑===========
+2023-05-06 20:13:51,645 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-06 20:14:28,775 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-06 20:14:50,713 baseView.py[line:37] INFO ==========上滑===========
+2023-05-06 20:14:53,163 baseView.py[line:61] INFO ==========右滑===========
+2023-05-06 20:15:47,357 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-06 20:16:10,044 baseView.py[line:38] INFO ==========上滑===========
+2023-05-06 20:16:14,803 baseView.py[line:62] INFO ==========右滑===========
+2023-05-07 14:35:26,948 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-07 14:36:13,423 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-07 14:36:36,508 baseView.py[line:77] INFO ==========get screenshots
+2023-05-07 14:37:23,818 desired_caps.py[line:23] INFO =========打开APP==========
+2023-05-07 14:37:44,066 baseView.py[line:77] INFO ==========get screenshots
