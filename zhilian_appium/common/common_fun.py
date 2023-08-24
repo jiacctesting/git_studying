@@ -3,13 +3,7 @@ import os.path
 import time
 
 from appium.webdriver.common.appiumby import AppiumBy
-from selenium.webdriver.support.ui import WebDriverWait
-from  selenium.common.exceptions import TimeoutException,NoSuchElementException
-from selenium.common.exceptions import NoSuchElementException
-from common.desired_caps import appium_desired
-from appium.webdriver.common.touch_action import TouchAction
-from time import sleep
-from businessView.baseView import BaseView
+from baseView.baseView import BaseView
 import csv
 
 
@@ -81,6 +75,7 @@ class Common_fun(BaseView):
 
     def getscreenshot(self,module):
         time=self.gettime()
+        #os.path.dirname(__file__)当前文件所属的文件夹
         image_file=os.path.dirname(os.path.dirname(__file__))+'/screenshots/%s_%s.png' %(module,time)
         logging.info('==========get %s screenshots==============' %(module))
         self.driver.get_screenshot_as_file(image_file)
@@ -90,6 +85,7 @@ class Common_fun(BaseView):
         with open(csv_file,encoding="utf-8-sig") as file:
             reader=csv.reader(file)
             for index,row in enumerate(reader,1):
+                # 从指定索引1开始,方便读取（正常应该是索引从0开始，但是文件中第几行都是从1开始的）
                 if index==line:
                     return row
 

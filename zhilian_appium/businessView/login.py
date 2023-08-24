@@ -71,5 +71,5 @@ class Login(Common_fun):
 if __name__ == "__main__":
     driver = appium_desired()
     com = Login(driver)
-    com.login_fun("15911156312", "YESUSHIZHU123")
+    com.login_fun("15911156312", "111155")
     
