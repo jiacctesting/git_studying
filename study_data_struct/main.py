@@ -63,3 +63,9 @@ def old_func(a):
 
 m=old_func(10)
 print(m)
+
+current=os.path.abspath(__file__)
+BASE_DIR=os.path.dirname(os.path.dirname(current))
+print(current)
+print(BASE_DIR)
+print(os.path.dirname(os.path.dirname(__file__)))

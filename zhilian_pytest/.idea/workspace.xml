@@ -78,7 +78,9 @@
       <change beforePath="$PROJECT_DIR$/../studying/test_0607.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../studying/test_numpy.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../studying/test_python.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <list id="96586abf-5ed9-4357-abc9-75ee6710fa82" name="新的变更列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -244,11 +246,20 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="aedb8ef0-7034-4d44-969c-d669b354f73f" name="变更" comment="" />
+      <changelist id="96586abf-5ed9-4357-abc9-75ee6710fa82" name="新的变更列表" comment="" />
       <created>1693301000840</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693301000840</updated>
     </task>
+    <task id="LOCAL-00001" summary="pytest">
+      <created>1694603343272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694603343272</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,6 +284,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pytest" />
+    <option name="LAST_COMMIT_MESSAGE" value="pytest" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

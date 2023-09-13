@@ -1116,13 +1116,19 @@ while n>0:
 # m=ChineseTeacher("hh",10,100)
 # print(m)
 # # Teacher()
-list01=[1,2,"weew",False]
-def find01():
-    for item in list01:
-        if type(item)==str:
-            yield item
-m=find01()
-for item in m :
-    print(item)
-
-m=(item for item in list01 if type(item)==str )
+# list01=[1,2,"weew",False]
+# def find01():
+#     for item in list01:
+#         if type(item)==str:
+#             yield item
+# m=find01()
+# for item in m :
+#     print(item)
+#
+# m=(item for item in list01 if type(item)==str )
+import os
+def get_path():
+    print(os.path.abspath(__name__))
+    print(os.path.abspath(__file__))
+if __name__ == '__main__':
+    m=get_path()

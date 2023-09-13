@@ -1,6 +1,0 @@
-appPackage: com.zhaopin.social
-appActivity: .SplashActivity
-NoRest: True
-platformName: Android
-platformVersion: 9
-deviceName: emulator-5554

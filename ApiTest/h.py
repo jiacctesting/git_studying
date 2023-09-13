@@ -4,16 +4,16 @@ get请求：
     有参数
     无参数
 """
-# r=requests.get("https://api.github.com/events")
-# print(r.status_code)
-#
-# params={
-#     "shouji":"15911187981",
-#     "appkey":"0c818521d38759e1"
-# }
-# m=requests.get("http://sellshop.5istudy.online/sell/shouji/query",params=params)
-# print(m.status_code)
-# print(m.json())
+r=requests.get("https://api.github.com/events")
+print(r.status_code)
+
+params={
+    "shouji":"15911187981",
+    "appkey":"0c818521d38759e1"
+}
+m=requests.get("http://sellshop.5istudy.online/sell/shouji/query",params=params)
+print(m.status_code)
+print(m.json())
 
 
 """
@@ -85,25 +85,25 @@ def test_mobile():
     assert result["result"]["city"]=="北京"
 
 
-if __name__ == '__main__':
-    {
-        "code": 0,
-        "data": {
-            "id": "1",
-            "name": "况亲到",
-            "photoUrls": [
-                "http://dummyimage.com/200x200"
-            ],
-            "category": {
-                "id": 8440624395335082,
-                "name": "Dog"
-            },
-            "tags": [
-                {
-                    "id": 659068040334010,
-                    "name": "dog"
-                }
-            ],
-            "status": "sold"
-        }
-    }
+# if __name__ == '__main__':
+#     {
+#         "code": 0,
+#         "data": {
+#             "id": "1",
+#             "name": "况亲到",
+#             "photoUrls": [
+#                 "http://dummyimage.com/200x200"
+#             ],
+#             "category": {
+#                 "id": 8440624395335082,
+#                 "name": "Dog"
+#             },
+#             "tags": [
+#                 {
+#                     "id": 659068040334010,
+#                     "name": "dog"
+#                 }
+#             ],
+#             "status": "sold"
+#         }
+#     }
