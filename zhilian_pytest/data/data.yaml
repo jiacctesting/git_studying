@@ -1,0 +1,35 @@
+#user: "a"
+#password: "b"
+#输出为字典{'user': 'a', 'password': 'b'}
+
+
+#- a
+#- b
+#- c
+#输出为列表['a', 'b', 'c']
+
+
+#- user: "a"
+#  password: "123"
+#
+#- user: "b"
+#  password: "1234"
+#输出为列表中嵌套字典[{'user': 'a', 'password': '123'}, {'user': 'b', 'password': '1234'}]
+
+#userinfo:
+#  - name: "jia"
+#    age: "18"
+#  - identity: "student"
+#    grade: "senior"
+#输出为字典中嵌套列表{'userinfo': [{'name': 'jia', 'age': '18'}, {'identity': 'student', 'grade': 'senior'}]}
+
+
+
+---
+"username": "jia"
+"password": "yi"
+
+---
+"username": "jia"
+"password": "长"
+#运行结果为多个字典

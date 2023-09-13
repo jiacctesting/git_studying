@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aedb8ef0-7034-4d44-969c-d669b354f73f" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/.idea/APPIUM_TEST_0417.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/BILIBILI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/Mymoney.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/Record_appium.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/ZHILIAN/appium_desired.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/ZHILIAN/baseView.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/ZHILIAN/common_fun.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/ZHILIAN/desired_yaml.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/ZHILIAN/login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/ZHILIAN/run.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/ZHILIAN/testcase_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/ZHILIAN/yanzhengma.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/appium_start.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/bilibili_yamlcaps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/boss_zhaopin/boss_zhaopin_appium.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/desired_caps.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/log.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/monkey_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/monkey_zhilian.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/run.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPIUM_TEST_0417/zhilian_jianli.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApiTest/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../ApiTest/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApiTest/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ApiTest/h.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/cases/test_login_failed_0212.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_data_struct/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../study_data_struct/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_data_struct/.idea/study_data_struct.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../study_data_struct/.idea/study_data_struct.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_data_struct/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../study_data_struct/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_data_struct/python_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/../study_data_struct/python_exercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/.idea/studying.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/class_testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/file_copy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/project_test/Student_mangement_system.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/project_test/View_0620.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/project_test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/project_test/game_0620.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/project_test/game_2048/2048bll.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/project_test/game_2048/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/project_test/game_2048/model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/project_test/model_0620.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/project_test/view.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/selenium_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/test_0209.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/test_0607.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/test_numpy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying/test_python.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2UeXQAEaNkHuGguGJWX9XbGW6HL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindow运行.ShowToolbar": "false",
+    "last_opened_file_path": "C:/Users/Lenovo/PycharmProjects/zhilian_pytest",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PythonContentEntriesConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\PycharmProjects\zhilian_pytest\testcase\pytest_test" />
+      <recent name="C:\Users\Lenovo\PycharmProjects\zhilian_pytest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.RequestUtils">
+    <configuration name="LogUtils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zhilian_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_utils/LogUtils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RequestUtils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zhilian_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_utils/RequestUtils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="YamlUtils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zhilian_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_utils/YamlUtils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="conf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zhilian_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/configs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/configs/conf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="zhilian_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.LogUtils" />
+      <item itemvalue="Python.RequestUtils" />
+      <item itemvalue="Python.YamlUtils" />
+      <item itemvalue="Python.conf" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.RequestUtils" />
+        <item itemvalue="Python.LogUtils" />
+        <item itemvalue="Python.YamlUtils" />
+        <item itemvalue="Python.conf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="aedb8ef0-7034-4d44-969c-d669b354f73f" name="变更" comment="" />
+      <created>1693301000840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693301000840</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcase/test_recon.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

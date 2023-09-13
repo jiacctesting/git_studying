@@ -1,0 +1,5 @@
+
+Base:
+  loglevel: "debug"
+  test:
+    url: "https://api.weixin.qq.com/cgi-bin"
